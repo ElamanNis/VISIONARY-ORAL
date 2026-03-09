@@ -1,0 +1,8 @@
+{
+  "name": "Visionary Uralsk",
+  "description": "An interactive urban planning tool for the city of Uralsk, using AI to analyze city development projects and generate architectural visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
